@@ -13,6 +13,8 @@ ES6 JavaScript project using node.js to create a store page.
 
 ``` bash
 # install dependencies
+$ npm install -g nodemon
+or create package with:
 $ npm install --save-dev nodemon
 
 ```
